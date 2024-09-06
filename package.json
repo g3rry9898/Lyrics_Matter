@@ -1,0 +1,12 @@
+{
+  "name": "lyrics-analyser",
+  "version": "1.0.0",
+  "description": "## Overview The Lyrics Analyzer App is an AI-powered application that allows users to analyze and share lyrics. The app provides features such as sentiment analysis, keyword extraction, rhyme detection, and thematic categorization. Additionally, it can find lyrics using music recognition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
